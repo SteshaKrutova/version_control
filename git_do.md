@@ -74,3 +74,7 @@ git push
 ```sh
 git pull 
 ```
+ Для конфликтов: 
+```sh
+git push origin --rebase
+``` 
